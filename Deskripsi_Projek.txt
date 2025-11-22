@@ -1,1 +1,1 @@
-Mengembangkan aplikasi web manajemen rumah makan yang dapat mempermudah proses pemesanan, antrian dapur, pembayaran, report
+Mengembangkan aplikasi web manajemen rumah makan yang dapat mempermudah proses pemesanan, antrian dapur, pembayaran, kelola stok bahan, dan report penjualan 
