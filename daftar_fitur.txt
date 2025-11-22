@@ -1,7 +1,8 @@
 Fitur yang ada di aplikasi web
-  1- Manajemen informasi menu
+  1- Manajemen data menu
   2- Manajemen bahan
   3- Proses pemesanan
   4- Manajemen dapur
   5- Pembayaran dan invoice
   6- Pengelolaan stok bahan
+  7- Report penjualan
