@@ -1,5 +1,0 @@
-Resolusi Iyas di 2025
-1. Belajar penggunaan Git/Github
-2. Memperdalam Node.js
-3. Memperdalam Backend Express
-4. Memperdalam Frontend React
