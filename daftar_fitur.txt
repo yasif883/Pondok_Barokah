@@ -4,4 +4,5 @@ Fitur yang ada di aplikasi web
   3- Proses pemesanan
   4- Manajemen dapur
   5- Pembayaran dan invoice
-  6- Report penjualan
+  6- Pengelolaan stok bahan
+  7- Report penjualan
